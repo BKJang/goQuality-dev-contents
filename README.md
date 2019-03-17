@@ -46,17 +46,42 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 3월 10일 일요일
+- [Vagrant 설치 및 사용법](https://dev-yakuza.github.io/ko/environment/vagrant-install-and-usage/)
+- [신입 UI 디자이너를 위한 'UI 가이드라인 바로 배우기' 지침서](https://story.pxd.co.kr/1063)
+- [개발자가 영문 이력서 쓸 때 자주 저지르는 실수](https://brunch.co.kr/@imagineer/272)
 
-#### 2019년 2월 21일 수요일
-- [스크롤 이벤트 최적화](https://jbee.io/web/optimize-scroll-event/)
-- 
+#### 2019년 3월 7일 목요일
+- [딥러닝을 활용한 거래량 예측 기능 개선](https://d2.naver.com/helloworld/0065813)
+- [나는 코드를 쓸테니, 너는 인프라를 맡거라.](https://blog.hax0r.info/2018-11-28/i-will-write-the-code-you-will-be-in-charge-of-the-infrastructure/)
+- [확장성 있고, 이식성 있는 도커 컨테이너 네트워크 설계 [번역]](https://ziwon.dev/post/designing-scalable-portable-docker-container-networks/)
 
-#### 2019년 2월 17일 일요일
-- [리팩토링 2판 Catalog:](https://refactoring.com/catalog/)
-- [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
-- [왜 나는 $500k나 받는 아마존을 떠났는가? [영문]](https://danielvassallo.com/only-intrinsic-motivation-lasts/?fbclid=IwAR0paqXNzgDKZG2Prdl6D3TBGSMnjjVBGOZTu-yeZR9qMJQ8m2UxBpMcyJU)
-- [2019년도 높은 연봉을 받는 15가지 IT 자격증 [번역]](https://sambalim.tistory.com/56)
-- [ElasticSearch와 Heap메모리](https://brunch.co.kr/@alden/35)
+#### 2019년 3월 6일 수요일
+- [Hypermedia-driven REST API](https://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220391644590)
+- [Websocket 실시간 개발하기](https://brunch.co.kr/@adrenalinee31/2)
+
+#### 2019년 3월 5일 화요일
+- [Jackson 어노테이션 사용법](https://github.com/cheese10yun/blog-sample/tree/master/jackson)
+- [유닛테스트에 대한 생각](https://blog.outsider.ne.kr/1275)
+- [DevOps tutorial [영문]](https://www.edureka.co/blog/devops-tutorial)
+- [멀티플렉싱 기반의 다중 접속 서버로 가기까지](https://jongmin92.github.io/2019/02/28/Java/java-with-non-blocking-io/)
+
+#### 2019년 3월 4일 월요일
+- [개발자의 이직 가이드 (초급)](https://brunch.co.kr/@promiseys/3)
+- [신입이 나아갈 방향을 잡는 방법](https://brunch.co.kr/@zalhanilll/348)
+
+#### 2019년 3월 3일 일요일
+- [40대 후반 개발자의 고민에 대하여](https://brunch.co.kr/@nashorn74/18)
+- [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 part 1](https://joshua1988.github.io/web-development/http-part1/)
+
+#### 2019년 3월 2일 토요일
+- [<개발자의 글쓰기> 원본 공개](https://drive.google.com/file/d/1ELeCi_1UzCEkj-UDSLM44h9HcgGiDQrb/view)
+- [우아한형제들 이동욱(jojoldu) 개발자님 인터뷰](https://www.imaso.co.kr/archives/4869)
+
+#### 2019년 3월 1일 금요일
+- [TensorFlow.js: 웹 프론트엔드에서 머신러닝 활용하기](https://engineering.linecorp.com/ko/blog/tensorflow-js-color-recommendation/)
+- [JDBC를 사용한 MySQL SSL 연결](https://medium.com/p/1c5da86cc2c5)
+- [OpenAPI Spec 3.0 버전으로 문서 작성하기](https://blog.sonim1.com/217)
 
 
 --------------------------------------
@@ -166,6 +191,7 @@
 - [Hashicorp의 도 [번역]](https://blog.outsider.ne.kr/1173)
 - [아마존 3년 출근기 1편 - 하루 일과 및 요약](https://zaverome.wordpress.com/2019/01/09/%EC%95%84%EB%A7%88%EC%A1%B4-3%EB%85%84-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%ED%95%98%EB%A3%A8-%EC%9D%BC%EA%B3%BC-%EB%B0%8F-%EC%9A%94%EC%95%BD/)
 - [일일커밋의 효용성](https://jojoldu.tistory.com/402?fbclid=IwAR2QMmc1I7hvXHYr-uSTamiW-h0VkY-UBwOz_jMWsEJTgHkGxfWV1onMCsE)
+- [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/?fbclid=IwAR1a-npFrVXsevZq-tV6Vq0fQ-iUabeIUpDNBlA-dS_a32GHi7tCN5kVBek)
 
 --------------------------------------
 
@@ -206,6 +232,7 @@
 - [경력직 개발자 커리어패스 정리](https://haandol.github.io/2017/02/24/software-engineer-career.html)
 - [2019 웹 개발자 로드맵 [번역]](https://github.com/kamranahmedse/developer-roadmap)
 - [파이썬 코어 개발자가 되기까지 [번역]](https://muchtrans.com/translations/my-path-to-becoming-a-python-core-developer.ko.html)
+- [왜 나는 $500k나 받는 아마존을 떠났는가? [영문]](https://danielvassallo.com/only-intrinsic-motivation-lasts/?fbclid=IwAR0paqXNzgDKZG2Prdl6D3TBGSMnjjVBGOZTu-yeZR9qMJQ8m2UxBpMcyJU)
 
 --------------------------------------
 
@@ -297,6 +324,7 @@
 - [코딩 공부 후 3개월 간 구직하며 배운 점 [번역]](https://brunch.co.kr/@imagineer/194)
 - [프론트엔드 개발자 인터뷰 후기 (면접 질문 정리)](https://velog.io/@tmmoond8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EC%9E%91%EC%84%B1-%EC%A4%91)
 - [DevOps를 위한 30가지 Docker 인터뷰 질문 [영문]](https://www.fullstack.cafe/blog/docker-interview-questions-and-answers)
+- [싱가폴의 코딩테스트](https://brunch.co.kr/@imagineer/267)
 
 --------------------------------------
 </br>
@@ -377,6 +405,10 @@
 - [Sprong OAuth2 인증 Flow 소개 및 RDBMS를 이용한 영속화](https://github.com/cheese10yun/springboot-oauth2)
 - [ThreadLocal 사용법과 활용](https://javacan.tistory.com/entry/ThreadLocalUsage)
 - [Spring 웹 애플리케이션에서 사용하지 않는 API를 찾아보자](http://woowabros.github.io/tools/2019/02/15/controller-log.html)
+- [스프링 테스트 노하우 및 전략](https://github.com/cheese10yun/spring-guide)
+- [도메인 모델 vs DTO](http://toby.epril.com/?p=99)
+- [Java에서 String은 왜 immutable인가? [번역]](http://www.mimul.com/pebble/default/2015/10/10/1444466677572.html)
+- [LINE의 OpenJDK 적용기 - 호환성 확인부터 주의사항까지](https://engineering.linecorp.com/ko/blog/line-open-jdk/)
 
 
 --------------------------------------
@@ -508,6 +540,8 @@
 - [컨테이너와 쿠버네티스를 쉽게 이해하기](https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/)
 - [서버리스 컴퓨팅 시대의 풀스택 개발 [번역]](https://medium.com/@serithemage/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C-f9330483790f)
 - [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
+- [리모트 컨피그 서버 구축기](http://woowabros.github.io/tools/2019/02/18/remote-config-server.html)
+- [스프링 실전 가이드](https://github.com/cheese10yun/spring-guide)
 
 --------------------------------------
 
@@ -634,6 +668,13 @@
 - [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/)
 - [ES6 - 프로미스](https://poiemaweb.com/es6-promise)
 - [React 렌더링과 성능 알아보기](https://meetup.toast.com/posts/110)
+- [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
+- [DOM은 정확히 무엇일까? [번역]](https://wit.nts-corp.com/2019/02/14/5522)
+- [TypeScript와 함께하는 Fullstack Development](https://medium.com/p/501835592b1d)
+- [JavaScript Essentials: 자료형과 자료구조 [번역]](https://link.medium.com/NwyGeg1MrU)
+- [React에서 Redux 전에 배워야 할 8가지](https://edykim.com/ko/post/learn-react-before-using-redux/)
+- [react-native 사이드프로젝트 보름만에 iOS, 안드로이드 앱 출시하기](https://blog.holy.kiwi/js/190127/)
+- [QueryPie는 왜 React & Typescript를 선택하게 되었나](https://medium.com/p/111d03597510/)
 
 --------------------------------------
 
@@ -736,6 +777,7 @@
 - [REST FULL 한 웹서비스 > Stateless와 HATEOAS 개념](http://anster.tistory.com/163)
 - [HTTP 헤더의 종류 및 항목](https://gmlwjd9405.github.io/2019/01/28/http-header-types.html)
 - [Gatsby로 블로그를 마이그레이션하며 고려한 것들](https://jbee.io/etc/intro-new-blog/?fbclid=IwAR2k8P3A32ZFDwyDto6FuaSD-C5eKAmfTPm0J5TyHFczzErPw9tnADIcDYk)
+- [Ajax & CORS Overview](http://huns.me/development/1291)
 
 --------------------------------------
 
@@ -771,6 +813,7 @@
 - [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
 - [.git - 쩜깃의 이해](https://jusths.tistory.com/64)
 - [Github 마크다운 작성 시 이미지 업로드 꿀팁](https://ahribori.com/article/5a03bcfd6c9eef13d882e29a)
+- [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
 
 --------------------------------------
 
@@ -798,6 +841,7 @@
 - [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)
 - [데이터 사이언스 학습자료 모음](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki)
 - [데이터 엔지니어가 하는 일](https://brunch.co.kr/@imagineer/301)
+- [빅데이터를 넘어 패스트 데이터 시대로](https://brunch.co.kr/@imagineer/302)
 
 ### 머신러닝 & 딥러닝 & AI
 - [머신러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)
@@ -863,6 +907,9 @@
 - [커맨드라인 JSON 프로세서 jq : 기초 문법과 작동원리](https://www.44bits.io/ko/post/cli_json_processor_jq_basic_syntax)
 - [mitmproxy를 활용해 구글 애널리틱스 테스트 자동화하기](https://engineering.linecorp.com/ko/blog/auto-inspecting-testing-with-google-analytics/)
 - [정적 사이트 생성기 Gatsby](https://blog.outsider.ne.kr/1426)
+- [내가 추천하는 크롬 익스텐션 10선](https://jojoldu.tistory.com/406)
+- [CI/CD란 무엇일까요?](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
+- [카카오페이 QR 코드 리버스 엔지니어링](http://philosophical.one/posts/kakaopay-qrcode/)
 
 
 ### 에러 발생한 컨텐츠들
